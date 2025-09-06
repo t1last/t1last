@@ -15,5 +15,3 @@
 
 **📫 Как связаться со мной:**
 *   Telegram: [@t1last_dev](https://t.me/t1last_dev)
-
-![GitHub Snake](https://github.com/t1last/t1last/blob/output/github-contribution-grid-snake.svg)
